@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.app-header {
+  text-align: center;
+}
+
+.app-body {
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.primary-button,
+.inputBox {
+  padding: 0.3rem 1.5rem;
+}
+
+.primary-button {
+  margin-left: 1rem;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
